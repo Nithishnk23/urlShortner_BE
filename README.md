@@ -24,7 +24,7 @@ Frontend Deployment link - https://gleaming-pavlova-a256ed.netlify.app/
 ## Tools used
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="vscode logo"  />
   <img width="12" />
